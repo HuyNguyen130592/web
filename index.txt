@@ -12,9 +12,4 @@ indexmerge
 
 index text2
 
-<<<<<<< HEAD
-indexmerge merge123 123456
->>>>>>> test1
-=======
 indexmerge merge123 123456789
->>>>>>> test1
