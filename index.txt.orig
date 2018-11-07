@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+<<<<<<< HED
+<<<<<<< HEAD
+index text2
+=======
+indexmerge merge123
+>>>>>>> 50a0d746d8f6b7f547c17b685704d88571afff0a 
+=======
+indexmerge
+>>>>>>> 50a0d746d8f6b7f547c17b685704d88571afff0a
+=======
+
+index text2
+
+indexmerge merge123 123456
+>>>>>>> test1
